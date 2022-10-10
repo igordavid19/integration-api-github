@@ -1,4 +1,4 @@
-# project-react-dio
+# Buscador de Perfis com API github
 Projeto react simples onde é efetivada a integração com a API do github para pesquisa de perfis.
 
 
